@@ -1,0 +1,158 @@
+ID,Alerts,URLs
+TA16-144A , WPAD Name Collision Vulnerability,https://www.us-cert.gov/ncas/alerts/TA16-144A
+TA16-132A , Exploitation of SAP Business Applications,https://www.us-cert.gov/ncas/alerts/TA16-132A
+TA16-105A , Apple Ends Support for QuickTime for Windows; New Vulnerabilities Announced,https://www.us-cert.gov/ncas/alerts/TA16-105A
+TA16-091A , Ransomware and Recent Variants,https://www.us-cert.gov/ncas/alerts/TA16-091A
+TA15-337A , Dorkbot,https://www.us-cert.gov/ncas/alerts/TA15-337A
+TA15-314A , Compromised Web Servers and Web Shells - Threat Awareness and Guidance,https://www.us-cert.gov/ncas/alerts/TA15-314A
+TA15-286A , Dridex P2P Malware,https://www.us-cert.gov/ncas/alerts/TA15-286A
+TA15-240A , Controlling Outbound DNS Access,https://www.us-cert.gov/ncas/alerts/TA15-240A
+TA15-213A , Recent Email Phishing Campaigns – Mitigation and Response Recommendations,https://www.us-cert.gov/ncas/alerts/TA15-213A
+TA15-195A , Adobe Flash and Microsoft Windows Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA15-195A
+TA15-120A , Securing End-to-End Communications,https://www.us-cert.gov/ncas/alerts/TA15-120A
+TA15-119A , Top 30 Targeted High Risk Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA15-119A
+TA15-105A , Simda Botnet,https://www.us-cert.gov/ncas/alerts/TA15-105A
+TA15-103A , DNS Zone Transfer AXFR Requests May Leak Domain Information,https://www.us-cert.gov/ncas/alerts/TA15-103A
+TA15-098A , AAEH,https://www.us-cert.gov/ncas/alerts/TA15-098A
+TA15-051A , Lenovo Superfish Adware Vulnerable to HTTPS Spoofing,https://www.us-cert.gov/ncas/alerts/TA15-051A
+TA14-353A , Targeted Destructive Malware,https://www.us-cert.gov/ncas/alerts/TA14-353A
+TA14-329A , Regin Malware,https://www.us-cert.gov/ncas/alerts/TA14-329A
+TA14-323A , Microsoft Windows Kerberos KDC Remote Privilege Escalation Vulnerability,https://www.us-cert.gov/ncas/alerts/TA14-323A
+TA14-318B , Microsoft Windows OLE Automation Array Remote Code Execution Vulnerability,https://www.us-cert.gov/ncas/alerts/TA14-318B
+TA14-318A , Microsoft Secure Channel (Schannel) Vulnerability (CVE-2014-6321),https://www.us-cert.gov/ncas/alerts/TA14-318A
+TA14-317A , Apple iOS 'Masque Attack' Technique,https://www.us-cert.gov/ncas/alerts/TA14-317A
+TA14-310A , Microsoft Ending Support for Windows Server 2003 Operating System,https://www.us-cert.gov/ncas/alerts/TA14-310A
+TA14-300A , Phishing Campaign Linked with “Dyre” Banking Malware,https://www.us-cert.gov/ncas/alerts/TA14-300A
+TA14-295A , Crypto Ransomware,https://www.us-cert.gov/ncas/alerts/TA14-295A
+TA14-290A , SSL 3.0 Protocol Vulnerability and POODLE Attack,https://www.us-cert.gov/ncas/alerts/TA14-290A
+TA14-268A ," GNU Bourne-Again Shell (Bash) ‘Shellshock’ Vulnerability (CVE-2014-6271, CVE-2014-7169, CVE-2014-7186, CVE-2014-7187, CVE-2014-6277 and CVE 2014-6278)",https://www.us-cert.gov/ncas/alerts/TA14-268A
+TA14-212A , Backoff Point-of-Sale Malware,https://www.us-cert.gov/ncas/alerts/TA14-212A
+TA14-150A , GameOver Zeus P2P Malware,https://www.us-cert.gov/ncas/alerts/TA14-150A
+TA14-098A , OpenSSL 'Heartbleed' vulnerability (CVE-2014-0160),https://www.us-cert.gov/ncas/alerts/TA14-098A
+TA14-069A , Microsoft Ending Support for Windows XP and Office 2003,https://www.us-cert.gov/ncas/alerts/TA14-069A-0
+TA14-017A , UDP-Based Amplification Attacks,https://www.us-cert.gov/ncas/alerts/TA14-017A
+TA14-013A , NTP Amplification Attacks Using CVE-2013-5211,https://www.us-cert.gov/ncas/alerts/TA14-013A
+TA14-002A , Malware Targeting Point of Sale Systems,https://www.us-cert.gov/ncas/alerts/TA14-002A
+TA13-317A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-317A
+TA13-309A , CryptoLocker Ransomware Infections,https://www.us-cert.gov/ncas/alerts/TA13-309A
+TA13-288A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-288A
+TA13-253A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-253A
+TA13-225A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-225A
+TA13-207A , Risks of Using the Intelligent Platform Management Interface (IPMI),https://www.us-cert.gov/ncas/alerts/TA13-207A
+TA13-193A , Exploit Tool Targets Vulnerabilities in McAfee ePolicy Orchestrator (ePO),https://www.us-cert.gov/ncas/alerts/TA13-193A
+TA13-190A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-190A
+TA13-175A , Risks of Default Passwords on the Internet,https://www.us-cert.gov/ncas/alerts/TA13-175A
+TA13-169A , Oracle Releases Updates for Javadoc and Other Java SE Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-169A
+TA13-168A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-168A
+TA13-141A ," Washington, DC Radio Station Web Site Compromises",https://www.us-cert.gov/ncas/alerts/TA13-141A
+TA13-134A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-134A
+TA13-107A , Oracle Has Released Multiple Updates for Java SE,https://www.us-cert.gov/ncas/alerts/TA13-107A
+TA13-100A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-100A
+TA13-088A , DNS Amplification Attacks,https://www.us-cert.gov/ncas/alerts/TA13-088A
+TA13-071A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-071A
+TA13-064A , Oracle Java Contains Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-064A
+TA13-051A , Oracle Java Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-051A
+TA13-043B , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-043B
+TA13-043A , Adobe Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-043A
+TA13-032A , Oracle Java Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-032A
+TA13-024A , Content Management Systems Security and Associated Risks,https://www.us-cert.gov/ncas/alerts/TA13-024A
+TA13-015A , Microsoft Releases Update for Internet Explorer Vulnerability CVE-2012-4792,https://www.us-cert.gov/ncas/alerts/TA13-015A
+TA13-010A , Oracle Java 7 Security Manager Bypass Vulnerability,https://www.us-cert.gov/ncas/alerts/TA13-010A
+TA13-008A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA13-008A
+TA12-346A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-346A
+TA12-318A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-318A
+TA12-283A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-283A
+TA12-265A , Microsoft Releases Patch for Internet Explorer Exploit,https://www.us-cert.gov/ncas/alerts/TA12-265A
+TA12-262A , Microsoft Security Advisory for Internet Explorer Exploit,https://www.us-cert.gov/ncas/alerts/TA12-262A
+TA12-255A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-255A
+TA12-251A , Microsoft Update For Minimum Certificate Key Length,https://www.us-cert.gov/ncas/alerts/TA12-251A
+TA12-240A , Oracle Java 7 Security Manager Bypass Vulnerability,https://www.us-cert.gov/ncas/alerts/TA12-240A
+TA12-227A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-227A
+TA12-192A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-192A
+TA12-174A , Microsoft XML Core Services Attack Activity,https://www.us-cert.gov/ncas/alerts/TA12-174A
+TA12-164A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-164A
+TA12-129A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-129A
+TA12-101B , Adobe Reader and Acrobat Security Updates and Architectural Improvements,https://www.us-cert.gov/ncas/alerts/TA12-101B
+TA12-101A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-101A
+TA12-073A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-073A
+TA12-045A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-045A
+TA12-024A ," ""Anonymous"" DDoS Activity",https://www.us-cert.gov/ncas/alerts/TA12-024A
+TA12-010A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA12-010A
+TA12-006A , Wi-Fi Protected Setup (WPS) Vulnerable to Brute-Force Attack,https://www.us-cert.gov/ncas/alerts/TA12-006A
+TA11-350A , Adobe Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-350A
+TA11-347A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-347A
+TA11-312A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-312A
+TA11-286A , Apple Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-286A
+TA11-284A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-284A
+TA11-256A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-256A
+TA11-222A , Adobe Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-222A
+TA11-221A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-221A
+TA11-201A , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-201A
+TA11-200A , Security Recommendations to Prevent Cyber Intrusions,https://www.us-cert.gov/ncas/alerts/TA11-200A
+TA11-193A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-193A
+TA11-166A , Adobe Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-166A
+TA11-165A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-165A
+TA11-130A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-130A
+TA11-102A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-102A
+TA11-067A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-067A
+TA11-039A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-039A
+TA11-011A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA11-011A
+TA10-348A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-348A
+TA10-313A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-313A
+TA10-287A , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-287A
+TA10-285A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-285A
+TA10-279A , Adobe Reader and Acrobat Affected by Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-279A
+TA10-263A , Adobe Flash Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-263A
+TA10-257A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-257A
+TA10-238A , Microsoft Windows Insecurely Loads Dynamic Libraries,https://www.us-cert.gov/ncas/alerts/TA10-238A
+TA10-231A , Adobe Reader and Acrobat Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-231A
+TA10-223A , Adobe Flash and AIR Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-223A
+TA10-222A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-222A
+TA10-194B , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-194B
+TA10-194A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-194A
+TA10-162A , Adobe Flash and AIR Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-162A
+TA10-159B , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-159B
+TA10-159A ," Adobe Flash, Reader, and Acrobat Vulnerability",https://www.us-cert.gov/ncas/alerts/TA10-159A
+TA10-131A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-131A
+TA10-103C , Adobe Reader and Acrobat Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-103C
+TA10-103B , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-103B
+TA10-089A , Microsoft Internet Explorer Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-089A
+TA10-068A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-068A
+TA10-040A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-040A
+TA10-021A , Microsoft Internet Explorer Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-021A
+TA10-013A , Adobe Reader and Acrobat Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-013A
+TA10-012B , Microsoft Windows EOT Font and Adobe Flash Player 6 Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-012B
+TA10-012A , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA10-012A
+TA09-343A , Adobe Flash Vulnerabilities Affect Flash Player and Adobe AIR,https://www.us-cert.gov/ncas/alerts/TA09-343A
+TA09-342A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-342A
+TA09-314A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-314A
+TA09-294A , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-294A
+TA09-286B , Adobe Reader and Acrobat Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-286B
+TA09-286A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-286A
+TA09-251A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-251A
+TA09-223A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-223A
+TA09-218A , Apple Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-218A
+TA09-209A ," Microsoft Windows, Internet Explorer, and Active Template Library (ATL) Vulnerabilities",https://www.us-cert.gov/ncas/alerts/TA09-209A
+TA09-204A , Adobe Flash Vulnerability Affects Flash Player and Other Adobe Products,https://www.us-cert.gov/ncas/alerts/TA09-204A
+TA09-195A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-195A
+TA09-187A , Microsoft Video ActiveX Control Vulnerability,https://www.us-cert.gov/ncas/alerts/TA09-187A
+TA09-161A , Adobe Acrobat and Reader Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-161A
+TA09-160A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-160B
+TA09-133B , Adobe Reader and Acrobat JavaScript Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-133B
+TA09-133A , Apple Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-133A
+TA09-132A , Microsoft PowerPoint Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-132A
+TA09-105A , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-105A
+TA09-104A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-104A
+TA09-088A , Conficker Worm Targets Microsoft Windows Systems,https://www.us-cert.gov/ncas/alerts/TA09-088A
+TA09-069A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-069A
+TA09-051A , Adobe Acrobat and Reader Vulnerability,https://www.us-cert.gov/ncas/alerts/TA09-051A
+TA09-041A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-041A
+TA09-022A , Apple QuickTime Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-022A
+TA09-020A , Microsoft Windows Does Not Disable AutoRun Properly,https://www.us-cert.gov/ncas/alerts/TA09-020A
+TA09-015A , Oracle Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-015A
+TA09-013A , Microsoft Updates for Multiple SMB Protocol Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA09-013A
+TA08-352A , Microsoft Internet Explorer Data Binding Vulnerability,https://www.us-cert.gov/ncas/alerts/TA08-352A
+TA08-350A , Apple Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA08-350A
+TA08-344A , Microsoft Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA08-344A
+TA08-340A , Sun Java Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA08-340A
+TA08-319A , Mozilla Updates for Multiple Vulnerabilities,https://www.us-cert.gov/ncas/alerts/TA08-319A
